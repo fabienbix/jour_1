@@ -111,7 +111,7 @@ table {
 }
 
 #bloc-droit {
-	background: white;
+	background: #f0f0f0;
 	float: right;
 	width: 68%;
 	padding: 7px;
@@ -128,6 +128,6 @@ table {
 
 #profil {
 	padding: 5px 0px 5px 0px;
-	
+
 }
 
